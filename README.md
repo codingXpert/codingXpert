@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingxpert&label=Profile%20views&color=0e75b6&style=flat" alt="codingxpert" /> </p>
 
-- 🌱 I’m currently learning **TypeScript And NextJs**
+- 🌱 I’m currently learning **TypeScript And NestJs**
 
 - 💬 Ask me about **Html , Css , JavaScript , NodeJs , MongoDB**
 
